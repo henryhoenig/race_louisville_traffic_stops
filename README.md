@@ -206,6 +206,9 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 
+
+&nbsp;
+&nbsp;
 ### Comparing search probabilities for Black citizens in affluent, mostly white neighborhoods
 
 * Black motorists face a greater chance of being searched in 2nd Division than the 5th Division 
@@ -215,6 +218,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
+
 ![Alt Text](capstone_images/5th_1st_div_black_cits.png)
 
 
