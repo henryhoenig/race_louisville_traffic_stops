@@ -147,9 +147,25 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 ![Alt Text](capstone_images/searches_latino_white_officers.png)
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+#### The role of geography 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+#### Louisville ranks as the 30th most segregated city in the U.S., according to the Census Bureau. 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+![Alt Text](capstone_images/divisions.png)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 
