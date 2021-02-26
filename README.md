@@ -93,6 +93,26 @@ The dataset contained details on more than 100,000 traffic stops over three year
 ![Alt Text](capstone_images/stopped_pct_searched_race_off.png)
 &nbsp;
 &nbsp;
+* Blacks were searched the highest percentage of the time by white, Black and Asian officers
+&nbsp;
+&nbsp;
+* Latino officers searched whites the most often, followed by Latinos
+&nbsp;
+&nbsp;
+![Alt Text](capstone_images/stopped_pct_searched_race_off.png)
+&nbsp;
+&nbsp;
+* Blacks were searched the highest percentage of the time by white, Black and Asian officers
+&nbsp;
+&nbsp;
+* Latino officers searched whites the most often, followed by Latinos
+&nbsp;
+&nbsp;
+![Alt Text](capstone_images/stopped_pct_searched_race_off.png)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 * White and Latino citizens were given citations higher rates than Blacks by white, Latino and Black officers
 &nbsp;
 &nbsp;
@@ -100,6 +120,26 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 ![Alt Text](capstone_images/stopped_cited_race_race.png)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+#### Do people stopped by Latino officers face a higher probability of being searched versus a white officer?
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+* In 10,000 simulations, the probability that the probability of being searched by a Latino officer is higher: 1.0
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+* Plotting the beta distribution of searches by Latino and white officers
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+![Alt Text](capstone_images/searches_latino_white_officers.png)
 
 
 
