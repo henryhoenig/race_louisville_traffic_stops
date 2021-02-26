@@ -16,7 +16,7 @@ Data points include:
 * warning, citation or arrest 
 
 
-![Alt Text](/Users/henryhoenig/Galvanize/capstone_one/capstone images/protest.jpg)
+![Alt Text](capstone_images/protest.jpg)
 
 
 
