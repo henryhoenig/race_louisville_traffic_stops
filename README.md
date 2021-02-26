@@ -54,6 +54,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 
 * Whites, Latinos and Asians are underrepresented
 
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -76,34 +77,37 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 ### The relative probabilities of Black and white citizens being searched
-
-&nbsp;
 * In 10,000 simulations, the probability that Blacks face a higher probability of being searched than whites: 1.0
 &nbsp;
 * Plotting the beta distributions of searches of Blacks and whites:  worlds apart
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-![Alt Text](capstone_images/black_white_all_officers.png)
+
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 
-## What role might the officer's race play? 
+![Alt Text](capstone_images/black_white_all_officers.png)
+
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## Considering an officer's race in outcomes 
+
 * Blacks were searched the highest percentage of the time by white, Black and Asian officers
 &nbsp;
 &nbsp;
 * Latino officers searched whites the most often, followed by Latinos
+
 
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 ![Alt Text](capstone_images/stopped_pct_searched_race_off.png)
+
 
 &nbsp;
 &nbsp;
@@ -114,6 +118,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 * Latino officers appear far less aggressive in giving citations than in conducting searches
 
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -122,6 +127,8 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
+
+
 ### Do Black citizens face a higher probability of being searched by a white officer than a Black one?
 &nbsp;
 &nbsp;
