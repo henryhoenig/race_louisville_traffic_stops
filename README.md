@@ -40,17 +40,19 @@ The dataset contained details on more than 100,000 traffic stops over three year
     -- Yes. 
 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 ### The findings
-
-
-#### An overview of stops, searches and citations
+&nbsp;
+&nbsp;
+#### An overview of stops, searches and citations by race of citizens
 &nbsp;
 &nbsp;
 * Blacks are overrepresented as a percentage of the population in stops, searches and citations.
 
 * Whites, Latinos and Asians are underrepresented
-
+&nbsp;
 
 ![Alt Text](capstone_images/pop_all_stops.png)
 
@@ -60,9 +62,59 @@ The dataset contained details on more than 100,000 traffic stops over three year
 * The percentage of Black motorists who were searched was nearly double that of whites. 
 
 * But white citizens were given citations at a higher rate.
-
+&nbsp;
 
 ![Alt Text](capstone_images/stops_pct_searched_race.png)
+&nbsp;
+&nbsp;
+&nbsp;
+#### A statistical look at the probability of Black and white citizens being searched
+&nbsp;
+&nbsp;
+* Plotting the beta distributions: 
+&nbsp;
+![Alt Text](capstone_images/black_white_all_officers.png)
+&nbsp;
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
