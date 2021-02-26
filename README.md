@@ -81,7 +81,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
-#### What role might the officer's race play? 
+### What role might the officer's race play? 
 &nbsp;
 &nbsp;
 * Blacks were searched the highest percentage of the time by white, Black and Asian officers
@@ -151,7 +151,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
-#### The role of geography 
+### The role of geography 
 &nbsp;
 &nbsp;
 &nbsp;
@@ -166,8 +166,12 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
-
-
+![Alt Text](capstone_images/2nd_div_bw_all_off.png)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+![Alt Text](capstone_images/5th_1st_div_black_cits.png)
 
 
 
