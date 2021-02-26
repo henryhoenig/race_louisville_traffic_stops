@@ -32,17 +32,14 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 ## Among the questions asked and answered:
 
-* Do Black citizens face a higher probability of being searched than white citizens? 
-    -- Yes. 
+* Do Black citizens face a higher probability of being searched than white citizens?  
 
 * Are white officers or Black officers more likely to search a Black citizen?
-    -- White officers.
     
 * Are Black officers more likely to search a Black citizen or a white one?
-    -- A Black one. 
 
 * Are Latino officers more likely to search someone than a white officer?
-    -- Yes. 
+
 
 
 &nbsp;
