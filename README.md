@@ -99,7 +99,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 * Latino officers appear far less aggressive in giving citations than in conducting searches
 &nbsp;
 &nbsp;
-![Alt Text](capstone_images/stopped_cited_race_race)
+![Alt Text](capstone_images/stopped_cited_race_race.png)
 
 
 
