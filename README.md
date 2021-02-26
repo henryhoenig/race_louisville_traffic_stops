@@ -5,11 +5,14 @@
 
 
 
+&nbsp;
+&nbsp;
 ### Introduction: 
 
 * A dataset from the Stanford Open Policing Project contains details on several years' of police traffic stops in Louisville, Kentucky. I examined the data with the goal of determining whether race played a role in the outcomes of traffic stops in Louisville--and if so, what racial dynamics were at play. As it did across the U.S., the issue of race and policing dominated headlines last year in Louisville, where the police shooting of Breonna Taylor in March was a factor in sparking nationwide protests. 
 
-
+&nbsp;
+&nbsp;
 ### The data: 
 
 https://openpolicing.stanford.edu/data/
@@ -24,7 +27,8 @@ The dataset contained details on more than 100,000 traffic stops over three year
 * Whether the citizen was searched, frisked, given a citation
 
 
-
+&nbsp;
+&nbsp;
 ### Among the questions asked and answered:
 
 * Do Black citizens face a higher probability of being searched than white citizens? 
@@ -43,10 +47,8 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
-### The findings
 &nbsp;
-&nbsp;
-#### An overview of stops, searches and citations by race of citizens
+### An overview of stops, searches and citations by race of citizens
 &nbsp;
 &nbsp;
 * Blacks are overrepresented as a percentage of the population in stops, searches and citations.
