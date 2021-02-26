@@ -91,7 +91,15 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 ![Alt Text](capstone_images/stopped_pct_searched_race_off.png)
-
+&nbsp;
+&nbsp;
+* White and Latino citizens were given citations higher rates than Blacks by white, Latino and Black officers
+&nbsp;
+&nbsp;
+* Latino officers appear far less aggressive in giving citations than in conducting searches
+&nbsp;
+&nbsp;
+![Alt Text](capstone_images/stopped_cited_race_race)
 
 
 
