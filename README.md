@@ -129,13 +129,14 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 
 
+&nbsp;
 ### Do Black citizens face a higher probability of being searched by a white officer than a Black one?
-&nbsp;
-&nbsp;
 * Ten thousand simulations found that the probability that Black citizens face higher probability of being searched by a white officer is 1.0
 &nbsp;
 &nbsp;
 * Plotting the beta distributions of Black and white officers' searches of Black citizens illustrates the point.
+
+
 &nbsp;
 &nbsp;
 ![Alt Text](capstone_images/black_searches_bandw_off.png)
@@ -143,17 +144,20 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
+
+
 ### Are Black officers more likely to search Black citizens than white ones?
-&nbsp;
-&nbsp;
 * Yes, again, the probability that a Black citizen faces a higher probability of being searched by a white officer is 1.0
 &nbsp;
 &nbsp;
+
 ![Alt Text](capstone_images/b_w_cits_b_off.png)
+
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
+
 ### Do people stopped by Latino officers face a higher probability of being searched versus a white officer?
 &nbsp;
 &nbsp;
