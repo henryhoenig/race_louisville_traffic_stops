@@ -1,4 +1,4 @@
-## Race in Louisville traffic stops (2015-2018)
+# Race in Louisville traffic stops (2015-2018)
 &nbsp;
 &nbsp;
 
@@ -8,13 +8,13 @@
 
 &nbsp;
 &nbsp;
-### Introduction: 
+## Introduction: 
 
 * A dataset from the Stanford Open Policing Project contains details on several years' of police traffic stops in Louisville, Kentucky. I examined the data with the goal of determining whether race played a role in the outcomes of traffic stops in Louisville--and if so, what racial dynamics were at play. As it did across the U.S., the issue of race and policing dominated headlines last year in Louisville, where the police shooting of Breonna Taylor in March was a factor in sparking nationwide protests. 
 
 &nbsp;
 &nbsp;
-### The data: 
+## The data: 
 
 https://openpolicing.stanford.edu/data/
 
@@ -30,7 +30,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 
 &nbsp;
 &nbsp;
-### Among the questions asked and answered:
+## Among the questions asked and answered:
 
 * Do Black citizens face a higher probability of being searched than white citizens? 
     -- Yes. 
@@ -49,11 +49,12 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
-### An overview of stops, searches and citations by race of citizens
-&nbsp;
+## An overview of stops, searches and citations by race of citizens
 * Blacks are overrepresented as a percentage of the population in stops, searches and citations.
 
 * Whites, Latinos and Asians are underrepresented
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 ![Alt Text](capstone_images/pop_all_stops.png)
@@ -72,7 +73,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
-#### The probability of Black and white citizens being searched
+### The probability of Black and white citizens being searched
 &nbsp;
 * In 10,000 simulations, the probability that Blacks face a higher probability of being searched than whites: 1.0
 &nbsp;
@@ -86,7 +87,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
-### What role might the officer's race play? 
+## What role might the officer's race play? 
 &nbsp;
 * Blacks were searched the highest percentage of the time by white, Black and Asian officers
 &nbsp;
@@ -115,7 +116,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
-#### Do white officers search Black citizens more than Black officers do?
+### Do white officers search Black citizens more than Black officers do?
 &nbsp;
 &nbsp;
 * Ten thousand simulations found that the probability that Black citizens face higher probability of being searched by a white officer is 1.0
@@ -129,7 +130,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
-#### Are Black officers more likely to search Black citizens than white ones?
+### Are Black officers more likely to search Black citizens than white ones?
 &nbsp;
 &nbsp;
 * Yes, again, the probability that a Black citizen faces a higher probability of being searched by a white officer is 1.0
@@ -140,7 +141,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
-#### Do people stopped by Latino officers face a higher probability of being searched versus a white officer?
+### Do people stopped by Latino officers face a higher probability of being searched versus a white officer?
 &nbsp;
 &nbsp;
 &nbsp;
@@ -160,7 +161,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
-### The role of geography 
+## The role of geography 
 &nbsp;
 &nbsp;
 &nbsp;
