@@ -199,6 +199,10 @@ The dataset contained details on more than 100,000 traffic stops over three year
 
 * In 10,000 simulations, the probability of white motorists facing greater chance of search was 1.0
 
+* Rates of search high for both: 22.8% for whites, 18% for Blacks
+
+* More than twice as many stops of Black motorists than white ones.
+
 &nbsp;
 &nbsp;
 
