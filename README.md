@@ -45,8 +45,8 @@ The dataset contained details on more than 100,000 traffic stops over three year
 
 
 #### An overview of stops, searches and citations
-
-
+&nbsp;
+&nbsp;
 * Blacks are overrepresented as a percentage of the population in stops, searches and citations.
 
 * Whites, Latinos and Asians are underrepresented
@@ -54,8 +54,8 @@ The dataset contained details on more than 100,000 traffic stops over three year
 
 ![Alt Text](capstone_images/pop_all_stops.png)
 
-
-
+&nbsp;
+&nbsp;
 
 * The percentage of Black motorists who were searched was nearly double that of whites. 
 
