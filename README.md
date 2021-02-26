@@ -77,9 +77,9 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 ### The relative probabilities of Black and white citizens being searched
-* In 10,000 simulations, the probability that Blacks face a higher probability of being searched than whites: 1.0
+* In 10,000 Monte Carlo simulations, the probability that Blacks face a higher probability of being searched than whites: 1.0
 &nbsp;
-* Plotting the beta distributions of searches of Blacks and whites:  worlds apart
+* Using Bayesian A/B testing, plotting the distributions of searches of Blacks and whites:  worlds apart
 
 
 &nbsp;
@@ -215,7 +215,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 ### Comparing search probabilities for Black citizens in affluent, mostly white neighborhoods
 
-* Black motorists face a greater chance of being searched in 2nd Division than the 5th Division 
+* Black motorists face a greater chance of being searched in 1st Division than the 5th Division 
 
 
 &nbsp;
