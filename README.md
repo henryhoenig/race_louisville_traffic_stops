@@ -1,5 +1,6 @@
 ## Race in Louisville traffic stops (2015-2018)
-
+&nbsp;
+&nbsp;
 
 ![Alt Text](capstone_images/stopped.jpg)
 
@@ -50,12 +51,11 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 ### An overview of stops, searches and citations by race of citizens
 &nbsp;
-&nbsp;
 * Blacks are overrepresented as a percentage of the population in stops, searches and citations.
 
 * Whites, Latinos and Asians are underrepresented
 &nbsp;
-
+&nbsp;
 ![Alt Text](capstone_images/pop_all_stops.png)
 
 &nbsp;
@@ -65,8 +65,9 @@ The dataset contained details on more than 100,000 traffic stops over three year
 
 * But white citizens were given citations at a higher rate.
 &nbsp;
-
+&nbsp;
 ![Alt Text](capstone_images/stops_pct_searched_race.png)
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -78,6 +79,8 @@ The dataset contained details on more than 100,000 traffic stops over three year
 * Plotting the beta distributions of searches of Blacks and whites:  worlds apart
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 ![Alt Text](capstone_images/black_white_all_officers.png)
 &nbsp;
 &nbsp;
@@ -85,14 +88,16 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 ### What role might the officer's race play? 
 &nbsp;
-&nbsp;
 * Blacks were searched the highest percentage of the time by white, Black and Asian officers
 &nbsp;
 &nbsp;
 * Latino officers searched whites the most often, followed by Latinos
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 ![Alt Text](capstone_images/stopped_pct_searched_race_off.png)
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -101,6 +106,8 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 * Latino officers appear far less aggressive in giving citations than in conducting searches
+
+&nbsp;
 &nbsp;
 &nbsp;
 ![Alt Text](capstone_images/stopped_cited_race_race.png)
