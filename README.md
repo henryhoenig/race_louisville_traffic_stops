@@ -147,7 +147,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 
 
 &nbsp;
-### Are Black officers more likely to search Black citizens than white ones?
+### Are Black officers more likely to search Black citizens than white citizens?
 * Yes, the probability that a Black citizen faces a higher probability of being searched by a white officer is 1.0
 &nbsp;
 &nbsp;
@@ -180,7 +180,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 ## The role of geography in outcomes
 &nbsp;
 &nbsp;
-### Louisville ranks as the 30th most segregated city in the U.S., according to the Census Bureau. 
+### Louisville ranks as 30th most segregated city in U.S., according to Census Bureau. 
 &nbsp;
 &nbsp;
 &nbsp;
@@ -203,6 +203,13 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 
 ![Alt Text](capstone_images/2nd_div_bw_all_off.png)
+&nbsp;
+&nbsp;
+
+### Comparing search probabilities for Black citizens in affluent, mostly white neighborhoods
+
+* Black motorists face a greater chance of being searched in 2nd Division than the 5th Division 
+
 
 &nbsp;
 &nbsp;
