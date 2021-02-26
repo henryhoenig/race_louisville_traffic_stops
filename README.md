@@ -93,24 +93,6 @@ The dataset contained details on more than 100,000 traffic stops over three year
 ![Alt Text](capstone_images/stopped_pct_searched_race_off.png)
 &nbsp;
 &nbsp;
-* Blacks were searched the highest percentage of the time by white, Black and Asian officers
-&nbsp;
-&nbsp;
-* Latino officers searched whites the most often, followed by Latinos
-&nbsp;
-&nbsp;
-![Alt Text](capstone_images/stopped_pct_searched_race_off.png)
-&nbsp;
-&nbsp;
-* Blacks were searched the highest percentage of the time by white, Black and Asian officers
-&nbsp;
-&nbsp;
-* Latino officers searched whites the most often, followed by Latinos
-&nbsp;
-&nbsp;
-![Alt Text](capstone_images/stopped_pct_searched_race_off.png)
-&nbsp;
-&nbsp;
 &nbsp;
 &nbsp;
 * White and Latino citizens were given citations higher rates than Blacks by white, Latino and Black officers
