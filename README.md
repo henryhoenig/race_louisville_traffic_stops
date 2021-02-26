@@ -146,8 +146,9 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 
 
+&nbsp;
 ### Are Black officers more likely to search Black citizens than white ones?
-* Yes, again, the probability that a Black citizen faces a higher probability of being searched by a white officer is 1.0
+* Yes, the probability that a Black citizen faces a higher probability of being searched by a white officer is 1.0
 &nbsp;
 &nbsp;
 
@@ -159,13 +160,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 
 ### Do people stopped by Latino officers face a higher probability of being searched versus a white officer?
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 * In 10,000 simulations, the probability that the probability of being searched by a Latino officer is higher: 1.0
-&nbsp;
-&nbsp;
 &nbsp;
 &nbsp;
 * Plotting the beta distribution of searches by Latino and white officers
@@ -173,27 +168,42 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
+
+
 ![Alt Text](capstone_images/searches_latino_white_officers.png)
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
-## The role of geography 
+
+
+## The role of geography in outcomes
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-#### Louisville ranks as the 30th most segregated city in the U.S., according to the Census Bureau. 
+### Louisville ranks as the 30th most segregated city in the U.S., according to the Census Bureau. 
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 ![Alt Text](capstone_images/divisions.png)
+
+
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
+
+### The one division where white motorists more likely to be searched than Black ones
+
+* In second division: 73% of all stops were of Black motorists, but white motorists faced higher probability of being searched.
+
+* In 10,000 simulations, the probability of white motorists facing greater chance of search was 1.0
+
+&nbsp;
+&nbsp;
+
 ![Alt Text](capstone_images/2nd_div_bw_all_off.png)
+
 &nbsp;
 &nbsp;
 &nbsp;
