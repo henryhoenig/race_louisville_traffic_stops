@@ -68,14 +68,29 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
-#### A statistical look at the probability of Black and white citizens being searched
 &nbsp;
+#### The probability of Black and white citizens being searched
 &nbsp;
-* Plotting the beta distributions: 
+* In 10,000 simulations, the probability that Blacks face a higher probability of being searched than whites: 1.0
+&nbsp;
+* Plotting the beta distributions of searches of Blacks and whites:  worlds apart
+&nbsp;
 &nbsp;
 ![Alt Text](capstone_images/black_white_all_officers.png)
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+#### What role might the officer's race play? 
+&nbsp;
+&nbsp;
+* Blacks were searched the highest percentage of the time by white, Black and Asian officers
+&nbsp;
+&nbsp;
+* Latino officers searched whites the most often, followed by Latinos
+&nbsp;
+&nbsp;
+![Alt Text](capstone_images/stopped_pct_searched_race_off.png)
 
 
 
