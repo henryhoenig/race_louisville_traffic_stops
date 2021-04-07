@@ -78,7 +78,7 @@ Features included:
 ### The probabilities of Black and white citizens being searched
 * In 10,000 Monte Carlo simulations, the probability that Blacks face a higher probability of being searched than whites: 1.0.
 &nbsp;
-* Worlds apart: plotting the distributions of the rates of searches of Blacks and whites.
+* Worlds apart: plotting the beta distributions of the rates of searches of Blacks and whites.
 
 
 &nbsp;
