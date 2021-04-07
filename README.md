@@ -76,9 +76,9 @@ Features included:
 &nbsp;
 &nbsp;
 ### The probabilities of Black and white citizens being searched
-* In 10,000 Monte Carlo simulations, the probability that Blacks face a higher probability of being searched than whites: 1.0
+* In 10,000 Monte Carlo simulations, the probability that Blacks face a higher probability of being searched than whites: 1.0.
 &nbsp;
-* Worlds apart: plotting the distributions of the rates of searches of Blacks and whites
+* Worlds apart: plotting the distributions of the rates of searches of Blacks and whites.
 
 
 &nbsp;
@@ -95,10 +95,10 @@ Features included:
 
 ## Considering an officer's race in outcomes 
 
-* Blacks were searched the highest percentage of the time by white, Black and Asian officers
+* Blacks were searched the highest percentage of the time by white, Black and Asian officers.
 &nbsp;
 &nbsp;
-* Latino officers searched whites the most often, followed by Latinos
+* Latino officers searched whites the most often, followed by Latinos.
 
 
 &nbsp;
@@ -112,10 +112,10 @@ Features included:
 &nbsp;
 &nbsp;
 &nbsp;
-* White and Latino citizens were given citations higher rates than Blacks by white, Latino and Black officers
+* White and Latino citizens were given citations higher rates than Blacks by white, Latino and Black officers.
 &nbsp;
 &nbsp;
-* Latino officers appear far less aggressive in giving citations than in conducting searches
+* Latino officers appear far less aggressive in giving citations than in conducting searches.
 
 
 &nbsp;
@@ -130,7 +130,7 @@ Features included:
 
 &nbsp;
 ### Do Black citizens face a higher probability of being searched by a white officer than a Black one?
-* Ten thousand simulations found that the probability that Black citizens face higher probability of being searched by a white officer is 1.0
+* Ten thousand simulations found that the probability that Black citizens face higher probability of being searched by a white officer is 1.0.
 &nbsp;
 &nbsp;
 * Plotting the beta distributions of Black and white officers' searches of Black citizens illustrates the point.
@@ -147,7 +147,7 @@ Features included:
 
 &nbsp;
 ### Are Black officers more likely to search Black citizens than white citizens?
-* Yes, the probability that a Black citizen faces a higher probability of being searched by a white officer is 1.0
+* Yes, the probability that a Black citizen faces a higher probability of being searched by a white officer is 1.0.
 &nbsp;
 &nbsp;
 
@@ -159,10 +159,10 @@ Features included:
 &nbsp;
 
 ### Do people stopped by Latino officers face a higher probability of being searched versus a white officer?
-* In 10,000 simulations, the probability that the probability of being searched by a Latino officer is higher: 1.0
+* In 10,000 simulations, the probability that the probability of being searched by a Latino officer is higher: 1.0.
 &nbsp;
 &nbsp;
-* Plotting the beta distribution of searches by Latino and white officers
+* Plotting the beta distribution of searches by Latino and white officers.
 &nbsp;
 &nbsp;
 &nbsp;
@@ -179,7 +179,7 @@ Features included:
 ## The role of geography in outcomes
 &nbsp;
 &nbsp;
-### Louisville ranks as 30th most segregated city in U.S., according to Census Bureau. 
+### Louisville ranks as 30th most segregated city in U.S., according to Census Bureau 
 &nbsp;
 &nbsp;
 &nbsp;
@@ -196,9 +196,9 @@ Features included:
 
 * In second division: 73% of all stops were of Black motorists, but white motorists faced higher probability of being searched.
 
-* In 10,000 simulations, the probability of white motorists facing greater chance of search was 1.0
+* In 10,000 simulations, the probability of white motorists facing greater chance of search was 1.0.
 
-* Rates of search high for both: 22.8% for whites, 18% for Blacks
+* Rates of search high for both: 22.8% for whites, 18% for Blacks.
 
 * More than twice as many stops of Black motorists than white ones.
 
@@ -214,7 +214,7 @@ Features included:
 &nbsp;
 ### Comparing search probabilities for Black citizens in affluent, mostly white neighborhoods
 
-* Black motorists face a greater chance of being searched in 1st Division than the 5th Division 
+* Black motorists face a greater chance of being searched in 1st Division than the 5th Division. 
 
 
 &nbsp;
