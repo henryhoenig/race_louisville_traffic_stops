@@ -10,7 +10,7 @@
 &nbsp;
 ## Introduction: 
 
-* The issue of race and policing dominated headlines in the U.S. last year. I examined a dataset from the Stanford Open Policing Project that contains several years' of police traffic stops in Louisville, Kentucky, where the police shooting of Breonna Taylor in March was a factor in sparking nationwide protests. My objective was to determine whether race played a role in the outcomes of traffic stops in Louisville. I was particularly in searches, which mark a more aggressive and invasive stance by an officer and involve questions of civil rights.  
+* The issue of race and policing dominated headlines in the U.S. last year. I examined a dataset from the Stanford Open Policing Project that contains several years' of police traffic stops in Louisville, Kentucky, where the police shooting of Breonna Taylor in March was a factor in sparking nationwide protests. My objective was to determine whether race played a role in the outcomes of traffic stops in Louisville. I was particularly interested in searches, which mark a more aggressive and invasive stance by an officer and inherently involve questions of civil rights.  
 
 &nbsp;
 &nbsp;
@@ -95,10 +95,10 @@ Features included:
 
 ## Considering an officer's race in outcomes 
 
-* Blacks were searched the highest percentage of the time by white, Black and Asian officers.
+* While, Black and Asian officers were more likely to search a Black motorist than one of another race.
 &nbsp;
 &nbsp;
-* Latino officers searched whites the most often, followed by Latinos.
+* Latino officers searched white motorists the most often, followed by Latinos.
 
 
 &nbsp;
@@ -112,7 +112,7 @@ Features included:
 &nbsp;
 &nbsp;
 &nbsp;
-* White and Latino citizens were given citations higher rates than Blacks by white, Latino and Black officers.
+* White and Latino citizens were given citations at higher rates than Blacks by white, Latino and Black officers.
 &nbsp;
 &nbsp;
 * Latino officers appear far less aggressive in giving citations than in conducting searches.
@@ -159,7 +159,7 @@ Features included:
 &nbsp;
 
 ### Do people stopped by Latino officers face a higher probability of being searched versus a white officer?
-* In 10,000 simulations, the probability that the probability of being searched by a Latino officer is higher: 1.0.
+* In 10,000 simulations, the probability that the chance of being searched by a Latino officer is higher: 1.0.
 &nbsp;
 &nbsp;
 * Plotting the beta distribution of searches by Latino and white officers.
@@ -196,9 +196,9 @@ Features included:
 
 * In second division: 73% of all stops were of Black motorists, but white motorists faced higher probability of being searched.
 
-* In 10,000 simulations, the probability of white motorists facing greater chance of search was 1.0.
+* In 10,000 simulations, the probability of white motorists facing a greater chance of search was 1.0.
 
-* Rates of search high for both: 22.8% for whites, 18% for Blacks.
+* Rates of search were high for both: 22.8% for whites, 18% for Blacks.
 
 * More than twice as many stops of Black motorists than white ones.
 
@@ -214,7 +214,7 @@ Features included:
 &nbsp;
 ### Comparing search probabilities for Black citizens in affluent, mostly white neighborhoods
 
-* Black motorists face a greater chance of being searched in 1st Division than the 5th Division. 
+* Black motorists face a greater chance of being searched in 1st Division than the more affluent, mostly white 5th Division. 
 
 
 &nbsp;
