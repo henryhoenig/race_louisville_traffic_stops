@@ -95,7 +95,7 @@ Features included:
 
 ## Considering an officer's race in outcomes 
 
-* While, Black and Asian officers were more likely to search a Black motorist than one of another race.
+* White, Black and Asian officers were more likely to search a Black motorist than one of another race.
 &nbsp;
 &nbsp;
 * Latino officers searched white motorists the most often, followed by Latinos.
@@ -112,7 +112,7 @@ Features included:
 &nbsp;
 &nbsp;
 &nbsp;
-* White and Latino citizens were given citations at higher rates than Blacks by white, Latino and Black officers.
+* White, Latino and Black officers gave citations to white and Latino citizens at higher rates than they did Black citizens.
 &nbsp;
 &nbsp;
 * Latino officers appear far less aggressive in giving citations than in conducting searches.
@@ -130,7 +130,7 @@ Features included:
 
 &nbsp;
 ### Do Black citizens face a higher probability of being searched by a white officer than a Black one?
-* Ten thousand simulations found that the probability that Black citizens face higher probability of being searched by a white officer is 1.0.
+* Ten thousand simulations found that the probability that Black citizens face a higher probability of being searched by a white officer is 1.0.
 &nbsp;
 &nbsp;
 * Plotting the beta distributions of Black and white officers' searches of Black citizens illustrates the point.
