@@ -214,7 +214,7 @@ Features included:
 &nbsp;
 ### Comparing search probabilities for Black citizens in affluent, mostly white neighborhoods
 
-* Black motorists face a greater chance of being searched in 1st Division than the more affluent, mostly white 5th Division. 
+* Black motorists face a greater chance of being searched in the 1st Division than in the affluent, mostly white 5th Division. 
 
 
 &nbsp;
@@ -223,39 +223,5 @@ Features included:
 &nbsp;
 
 ![Alt Text](capstone_images/5th_1st_div_black_cits.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
