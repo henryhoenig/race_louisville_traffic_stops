@@ -1,4 +1,4 @@
-# Race in Louisville traffic stops (2015-2018)
+# The role of race in Louisville traffic stop searches
 &nbsp;
 &nbsp;
 
@@ -10,7 +10,7 @@
 &nbsp;
 ## Introduction: 
 
-* A dataset from the Stanford Open Policing Project contains details on several years' of police traffic stops in Louisville, Kentucky. I examined the data with the goal of determining whether race played a role in the outcomes of traffic stops in Louisville--and if so, what racial dynamics were at play. As it did across the U.S., the issue of race and policing dominated headlines last year in Louisville, where the police shooting of Breonna Taylor in March was a factor in sparking nationwide protests. 
+* The issue of race and policing dominated headlines in the U.S. last year. I examined a dataset from the Stanford Open Policing Project that contains several years' of police traffic stops in Louisville, Kentucky, where the police shooting of Breonna Taylor in March was a factor in sparking nationwide protests. My objective was to determine whether race played a role in the outcomes of traffic stops in Louisville. I was particularly in searches, which mark a more aggressive and invasive stance by an officer and involve questions of civil rights.  
 
 &nbsp;
 &nbsp;
@@ -18,7 +18,9 @@
 
 https://openpolicing.stanford.edu/data/
 
-The dataset contained details on more than 100,000 traffic stops over three years. Features included:
+The dataset contained details on more than 100,000 traffic stops over three years. 
+
+Features included:
 
 * Age, race and gender of people stopped 
 * Age, race and gender of police officers who stopped them
@@ -49,7 +51,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 ## An overview of stops, searches and citations by race of citizens
 * Blacks are overrepresented as a percentage of the population in stops, searches and citations.
 
-* Whites, Latinos and Asians are underrepresented
+* Whites, Latinos and Asians are underrepresented.
 
 
 &nbsp;
@@ -63,7 +65,7 @@ The dataset contained details on more than 100,000 traffic stops over three year
 
 * The percentage of Black motorists who were searched was nearly double that of whites. 
 
-* But white citizens were given citations at a higher rate.
+* But white and Latino citizens were given citations at a higher rate.
 
 &nbsp;
 &nbsp;
@@ -73,10 +75,10 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 &nbsp;
-### The relative probabilities of Black and white citizens being searched
+### The probabilities of Black and white citizens being searched
 * In 10,000 Monte Carlo simulations, the probability that Blacks face a higher probability of being searched than whites: 1.0
 &nbsp;
-* Using Bayesian A/B testing, plotting the distributions of searches of Blacks and whites:  worlds apart
+* Worlds apart: plotting the distributions of the rates of searches of Blacks and whites
 
 
 &nbsp;
@@ -84,7 +86,8 @@ The dataset contained details on more than 100,000 traffic stops over three year
 &nbsp;
 &nbsp;
 
-![Alt Text](capstone_images/black_white_all_officers.png)
+![BandW](https://user-images.githubusercontent.com/29707241/113818763-e4103a00-973d-11eb-8a4d-053c59d8be86.png)
+
 
 &nbsp;
 &nbsp;
