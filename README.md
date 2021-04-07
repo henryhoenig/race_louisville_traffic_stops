@@ -133,7 +133,7 @@ Features included:
 * Ten thousand simulations found that the probability that Black citizens face a higher probability of being searched by a white officer is 1.0.
 &nbsp;
 &nbsp;
-* Plotting the beta distributions of Black and white officers' searches of Black citizens illustrates the point.
+* Plotting the distributions of Black and white officers' searches of Black citizens illustrates the point.
 
 
 &nbsp;
@@ -162,7 +162,7 @@ Features included:
 * In 10,000 simulations, the probability that the chance of being searched by a Latino officer is higher: 1.0.
 &nbsp;
 &nbsp;
-* Plotting the beta distribution of searches by Latino and white officers.
+* Plotting the distribution of searches by Latino and white officers.
 &nbsp;
 &nbsp;
 &nbsp;
