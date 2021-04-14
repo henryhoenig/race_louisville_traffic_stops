@@ -10,7 +10,7 @@
 &nbsp;
 ## Introduction: 
 
-* The issue of race and policing dominated headlines in the U.S. last year. I examined a dataset from the Stanford Open Policing Project that contains several years' of police traffic stops in Louisville, Kentucky, where the police shooting of Breonna Taylor in March was a factor in sparking nationwide protests. My objective was to determine whether race played a role in the outcomes of traffic stops in Louisville. I was particularly interested in searches, which mark a more aggressive and invasive stance by an officer and inherently involve questions of civil rights.  
+* I examined a dataset from the Stanford Open Policing Project that contains several years' of police traffic stops in Louisville, Kentucky, where the police shooting of Breonna Taylor in March was a factor in sparking nationwide protests last year. My objective was to determine whether race played a role in the outcomes of traffic stops in Louisville. I was particularly interested in searches, which mark a more aggressive and invasive stance by an officer and inherently involve questions of civil rights.  
 
 &nbsp;
 &nbsp;
