@@ -147,7 +147,7 @@ Features included:
 
 &nbsp;
 ### Are Black officers more likely to search Black citizens than white citizens?
-* Yes, the probability that a Black citizen faces a higher probability of being searched by a white officer is 1.0.
+* Yes, the probability that a Black citizen faces a higher probability of being searched by a Black officer is 1.0.
 &nbsp;
 &nbsp;
 
