@@ -58,7 +58,7 @@ Features included:
 &nbsp;
 &nbsp;
 &nbsp;
-![Alt Text](capstone_images/pop_all_stops.png)
+<img src="capstone_images/pop_all_stops.png" alt="Chart" style="display:block; padding-top:10px; padding-bottom:10px;" />
 
 &nbsp;
 &nbsp;
